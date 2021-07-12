@@ -13,10 +13,10 @@
 - SCSS
 
 <h2>Para iniciar o projeto use: </h2>
-git clone https://github.com/mrdouglasmorais/template-node-fulljs
+git clone https://github.com/olucasklein/gama-starwars.git
 
 <h2>Para instalar as dependências use:</h2>
-npm i
+npm install
 
 <h2>Para iniciar em modo de desenvolvimento use:</h2>
 npm start
