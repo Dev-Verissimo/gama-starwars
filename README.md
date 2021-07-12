@@ -23,7 +23,7 @@ npm start
 
 <h2>Aconselhado ter instalado NODEJS versão 14.x em diante.</h2>
 
-<h2>Para instalar o node [clique aqui](https://nodejs.org/en/)</h2>
+Para instalar o node [clique aqui](https://nodejs.org/en/)
 
 <h2>📝 Licença</h2>
 Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
